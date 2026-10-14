@@ -2,14 +2,10 @@
 
 Ferramenta experimental para converter um arquivo WAV PCM em um efeito `.ZD2` baseado no modelo `IRCAB_IR_ICON.ZD2`, destinado ao fluxo de importação do Zoom Effect Manager.
 
-## Aviso
-
-Apenas testado na G1x Four e na G1 Four.
-
 ## Estado do projeto
 
 - **Uma IR por vez:** o conversor gera um arquivo `.ZD2` por operação.
-- **Nome no visor:** o efeito aparece como **IR CAB**. O nome do arquivo de saída não altera o nome apresentado no visor.
+- **Nome no visor:** na Zoom G1X FOUR, o efeito aparece como **IR CAB**. O nome do arquivo de saída não altera o nome apresentado no visor.
 - **Importação:** use o Zoom Effect Manager para transferir o arquivo gerado.
 - **Compatibilidade:** projeto experimental. Faça backup dos efeitos e teste com cuidado; a conversão não é uma ferramenta oficial da Zoom.
 
@@ -67,4 +63,4 @@ O executável será criado em `dist/Zoom_G1X_FOUR_IR_to_ZD2`.
 
 ## Aviso
 
-Projeto comunitário, sem vínculo com a Zoom Corporation. Use por sua conta e risco e mantenha cópias de segurança (Backup).
+Projeto comunitário, sem vínculo com a Zoom Corporation. Use por sua conta e risco e mantenha cópias de segurança.
