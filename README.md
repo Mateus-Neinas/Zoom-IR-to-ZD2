@@ -1,5 +1,7 @@
 # Zoom G1X FOUR — IR to ZD2
 
+> **Licença proprietária:** Copyright (c) 2026 Mateus Neinas. Todos os direitos reservados. Este repositório é público apenas para avaliação e referência. Não é permitido copiar, modificar, redistribuir, comercializar ou criar trabalhos derivados sem autorização prévia por escrito. Leia o arquivo [LICENSE](LICENSE).
+
 # Aviso
 Faça a conversão de todos os ir's desejados sem fechar e abrir o conversor.
 Caso contrário terá o seguinte erro: `repeating index effect`!
